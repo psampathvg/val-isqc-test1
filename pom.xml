@@ -1,6 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.valeo</groupId>
+	<groupId>com.psk</groupId>
 	<artifactId>ISQC</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
@@ -44,12 +44,12 @@
 			<version>2.3.21</version>
 		</dependency>
 		<dependency>
-			<groupId>com.valeo</groupId>
+			<groupId>com.psk</groupId>
 			<artifactId>contactsearch-proxy</artifactId>
 			<version>1.2.1</version>
 		</dependency>
 		<dependency>
-			<groupId>com.valeo.cloudservices</groupId>
+			<groupId>com.psk.cloudservices</groupId>
 			<artifactId>cloudservices-common</artifactId>
 			<version>1.2.3</version>
 		</dependency>
